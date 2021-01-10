@@ -4,6 +4,24 @@
 
 ![Illustration by https://illlustrations.co/](./img/day19-apple-watch.png)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents** 
+
+- [🐣 Introduction](#-introduction)
+- [👩🏽‍💻 Challenges](#%E2%80%8D-challenges)
+  - [🥾 Challenge 1 - Panafrica](#%F0%9F%A5%BE-challenge-1---panafrica)
+  - [📱 Challenge 2 - Wow](#-challenge-2---wow)
+  - [🎸 Challenge 3 - Verse](#-challenge-3---verse)
+  - [🎤 Challenge 4 - Tagline](#-challenge-4---tagline)
+  - [🖱 Challenge 5 - Right-click](#%F0%9F%96%B1-challenge-5---right-click)
+  - [🌄 Challenge 6 - Origin](#-challenge-6---origin)
+  - [💳 Challenge 7 - E-shop](#-challenge-7---e-shop)
+  - [📝 Challenge 8 - Code review](#-challenge-8---code-review)
+  - [Challenge 9 - Run this town](#challenge-9---run-this-town)
+  - [⁉️ Challenge 10 - Blanka](#-challenge-10---blanka)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 🐣 Introduction
 
