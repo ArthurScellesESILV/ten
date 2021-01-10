@@ -77,7 +77,7 @@ A tagline should be:
 
 ### 🖱 Challenge 5 - Right-click
 
-Write the **size (MB on disk) and dimension (pixel)** of the image from the link [https://esilv-off.vercel.app](https://esilv-off.vercel.app/) 👇
+Write the **size (MB on disk) and dimension (pixel)** of the cat image from the link [https://esilv-off.vercel.app](https://esilv-off.vercel.app/) 👇
 
 ![Challenge 7](./img/off.png)
 
