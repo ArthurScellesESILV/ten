@@ -6,7 +6,7 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents** 
+**Table of Contents**
 
 - [🐣 Introduction](#-introduction)
 - [👩🏽‍💻 Challenges](#%E2%80%8D-challenges)
@@ -18,7 +18,7 @@
   - [🌄 Challenge 6 - Origin](#-challenge-6---origin)
   - [💳 Challenge 7 - E-shop](#-challenge-7---e-shop)
   - [📝 Challenge 8 - Code review](#-challenge-8---code-review)
-  - [Challenge 9 - Run this town](#challenge-9---run-this-town)
+  - [🏘 Challenge 9 - Run this town](#%F0%9F%8F%98-challenge-9---run-this-town)
   - [⁉️ Challenge 10 - Blanka](#-challenge-10---blanka)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -77,7 +77,10 @@ A tagline should be:
 
 ### 🖱 Challenge 5 - Right-click
 
-Write the **size (MB on disk) and dimension (pixel)** of the image from the link
+Write the **size (MB on disk) and dimension (pixel)** of the image from the link [https://esilv-off.vercel.app](https://esilv-off.vercel.app/) 👇
+
+![Challenge 7](./img/off.png)
+
 
 ### 🌄 Challenge 6 - Origin
 
@@ -123,9 +126,9 @@ func Divide(a, b int) int {
 }
 ```
 
-### Challenge 9 - Run this town
+### 🏘 Challenge 9 - Run this town
 
-Give me the 5 cities of the Yvelines (78) which have [the best High School (lycées)](https://www.letudiant.fr/palmares/classement-lycees/academie-versailles.html).
+Give me **the 5 cities of the Yvelines (78) which have [the most best High School (lycées)](https://www.letudiant.fr/palmares/classement-lycees/academie-versailles.html)**.
 
 ### ⁉️ Challenge 10 - Blanka
 
