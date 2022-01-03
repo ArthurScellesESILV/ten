@@ -35,13 +35,13 @@ These 10 following questions will challenge your
 
 ## 👩🏽‍💻 Challenges
 
-For each challenge, follow the steps instrucation and **paste the solution or suggestion to your miro space**.
+For each challenge, follow the steps instruction and **share your solution or your  suggestion**.
 
 ### 🥾 Challenge 1 - Panafrica
 
-Open the link [https://www.panafrica-store.com/en/e-shop/317-panafrica-harmattan-ocre-unisex-sneaker-ethical-fashion.html](https://www.panafrica-store.com/en/e-shop/317-panafrica-harmattan-ocre-unisex-sneaker-ethical-fashion.htm) in your browser and **take a screenshot of the harmattan-ocre model complete page**.
+Open the link [https://panafrica-store.com/produit/panafrica-arusha-ocean-chaussures-colorees-wax-suede-responsables-consignee-ethique-2/](https://panafrica-store.com/produit/panafrica-arusha-ocean-chaussures-colorees-wax-suede-responsables-consignee-ethique-2/) in your browser and **take a screenshot of the ARUSHA-OCÉAN model complete page**.
 
-![Challenge 6](./img/harmattan-ocre.png)
+![Challenge 6](./img/arusha.png)
 
 
 ### 📱 Challenge 2 - Wow
@@ -60,7 +60,7 @@ As Rodney "[Darkchild](https://www.instagram.com/rodneyjerkins/)" Jerkins (a fam
 
 ### 🎤 Challenge 4 - Tagline
 
-**Write a (english) Tagline (catchline) to tell us about your 2020 year**.
+**Write a (english) Tagline (catchline) to tell us about your 2021 year**.
 
 A tagline should be:
 
